@@ -55,5 +55,7 @@ informações para diferentes plataformas, exemplo windows, Linux e mac OS.
 ## Meta - Meta informações
 
 Seu nome - [@SeuTwitter](https://twiter.com/seutwitter)
+
 Distribuído sobre a licença. Veja `LICENÇA` para mais informações.
+
 [https://github.com/seusuario/seuprojeto](https://github.com/seusuario)
